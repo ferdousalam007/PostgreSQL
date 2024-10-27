@@ -25,6 +25,7 @@ LIMIT restricts the number of rows we wish to retrieve from the result set. OFFS
 7) How can you perform data modification using UPDATE statements?
 
 It is the SQL command the UPDATE that enables you to modify data that has already been entered in a certain table. We can indicate what particular rows need to be updated by the WHERE clause and assign new values for the columns that we want to update.
+
 8) What is the significance of the JOIN operation, and how does it work in PostgreSQL?
 
 PostgreSQL join helps to couple rows of a table column with any other column of a different table, that contains a matching column with the values in any of the other common columns between the related tables showing it as one combined result.
